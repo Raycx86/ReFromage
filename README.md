@@ -25,3 +25,9 @@ Requirements:
 2. Clone candyk-psx to be in a directory adjacent to fromage: `cd ..`, `git clone https://github.com/ChenThread/candyk-psx`
 3. Compile candyk-psx using the Wonderful toolchain: `cd candyk-psx`, `export PATH=/opt/wonderful/toolchain/gcc-mipsel-elf/bin:$PATH`, `make`
 4. Compile Fromage: `cd ../fromage`, `make TYPE=exe REGION=europe`
+
+<!-- [START BADGES] -->
+<p align="center">
+  <img src="https://tianji.sandwich-of-rayc.space/telemetry/cmeq6iz780001eewp7u5h22xc/cmql1tb9v075wbvhzd3n8bggc/badge.svg" alt="Tianji Telemetry Badge" />
+</p>
+<!-- [END BADGES] -->
