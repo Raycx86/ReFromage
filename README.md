@@ -27,7 +27,5 @@ Requirements:
 4. Compile Fromage: `cd ../fromage`, `make TYPE=exe REGION=europe`
 
 <!-- [START BADGES] -->
-<p align="center">
-  <img src="https://tianji.sandwich-of-rayc.space/telemetry/cmeq6iz780001eewp7u5h22xc/cmql1tb9v075wbvhzd3n8bggc/badge.svg" alt="Tianji Telemetry Badge" />
-</p>
+![Tianji Telemetry Badge](https://tianji.sandwich-of-rayc.space/telemetry/cmeq6iz780001eewp7u5h22xc/cmql1tb9v075wbvhzd3n8bggc/badge.svg)
 <!-- [END BADGES] -->
